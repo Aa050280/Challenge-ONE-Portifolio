@@ -9,4 +9,4 @@ Tecnologias utilizadas:<br>
 * JavaScript<br>
 Autora do projeto:<br>
 Andreia Arruda
-
+![Portifolio](assets/readme.jpg)
